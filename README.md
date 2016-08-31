@@ -8,3 +8,6 @@ No additional handling in the controller ist required.
 **Example:**
 
 &lt;g:jqDatePicker name="myDate" precision="day"  value="${myDomainClassInstance?.myDate}" required="" /&gt;
+
+
+![alt tag](https://raw.githubusercontent.com/susannej/grails-jquery-datepicker/master/DateField.png)
